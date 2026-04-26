@@ -13,6 +13,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
+* [AIWatch](https://github.com/bentleypark/aiwatch) - Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.
 * [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [Checkmate](https://github.com/bluewave-labs/Checkmate) (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
